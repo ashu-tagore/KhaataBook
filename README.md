@@ -6,7 +6,7 @@ Create Records: Generate new financial records with the current date
 View Records: Browse all your saved financial records
 Edit Records: Update existing records as needed
 Delete Records: Remove unwanted financial records
-Date-based Organization: All records are automatically saved with the current date
+Date-based Organization: All records are automatically saved with the current date.
 
 Technology Stack
 Backend: Node.js with Express.js
